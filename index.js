@@ -3,8 +3,6 @@ const readline = require("readline");
 const Vec3 = require("vec3");
 const fs = require("fs");
 
-// Ivan Dimkov
-
 const rl = readline.createInterface({
   input: process.stdin,
   output: process.stdout,
